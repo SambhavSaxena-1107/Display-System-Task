@@ -1,0 +1,13 @@
+[2024-04-10 13:54:49 UTC] iverilog '-Wall' design.sv testbench.sv  && unbuffer vvp a.out  
+Hello World!
+The String is This is Verilog
+Decimal: 26
+Binary: 11010
+Hex: 1a
+I'm at test_display
+I'm at test_display.my_design.print
+Current time 0, and dummy time 123
+Current time 11, and dummy time 123
+Module Declaration Defines the module's name and ports.
+ Ports define the interface of the module.
+ Data Types define different signals and variables. string and 11 26
